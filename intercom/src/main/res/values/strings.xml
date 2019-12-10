@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Intercom</string>
+    <string name="waiting_for_video_accept">等待对方接受视频邀请...</string>
+    <string name="waiting_for_voice_accept">等待对方接受语音邀请...</string>
+    <string name="cancel">取消</string>
+    <string name="switch_voice">切换语音通话</string>
+    <string name="call_again">重拨</string>
+    <string name="call_fail">呼叫失败</string>
+    <string name="call_end">通话结束</string>
+    <string name="refuse">拒绝</string>
+    <string name="accept_call">接听</string>
+    <string name="turn_off">挂断</string>
+    <string name="switch_audio">转语音</string>
+    <string name="open_lock">开锁</string>
+    <string name="invite_you_accept_video_call">邀请你视频通话...</string>
+    <string name="invite_you_accept_audio_call">邀请你语音通话...</string>
+    <string name="not_accept_long_time">对方可能不在设备附近，建议稍后再次尝试</string>
+    <string name="more">更多</string>
+    <string name="you_have_missed_call">你有未接来电</string>
+    <string name="is_during_call">正在通话中...</string>
+    <string name="open_door_success">门已开</string>
+
+</resources>

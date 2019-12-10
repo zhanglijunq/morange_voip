@@ -1,0 +1,2 @@
+include ':app',':intercom'
+rootProject.name='morange_voip'
